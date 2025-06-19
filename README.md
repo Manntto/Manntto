@@ -10,8 +10,9 @@
 ## 👨‍💻 Sobre mim:
 
 <div align="center">
-  <img src="./assets/minha-foto.jpg" width="150px" style="border-radius: 50%;">
+  <img src="./assets/minha-foto.jpg" width="300px" style="border-radius: 10%;">
 </div>
+
 
 🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**,  
 mas meu foco profissional está direcionado para a **área de Dados**, **Back-End** e **Arquitetura de Soluções**.

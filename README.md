@@ -2,7 +2,7 @@
 <h1 align="center">Fala dev! 👋 Eu sou o Matheus Mantovani 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 </p>
 
 ---

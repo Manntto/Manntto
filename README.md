@@ -13,20 +13,21 @@
   <img src="./assets/minha-foto.jpg" width="150px" style="border-radius: 50%;">
 </div>
 
-🛠️ Sou um entusiasta da **engenharia de software**, **dados** e **arquitetura de soluções**.  
-📊 Atualmente focado em **Back-End**, **Cloud Computing (AWS)** e **Engenharia de Dados**.  
-📚 Sempre estudando sobre **Design Patterns**, **Boas Práticas de Código**, **SQL Performance**, **Infraestrutura** e **Automação com Python**.
+🎓 Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas**,  
+mas meu foco profissional está direcionado para a **área de Dados**, **Back-End** e **Arquitetura de Soluções**.
 
----
+🛠️ Estou em transição de carreira, buscando aprender e me desenvolver cada vez mais em:
 
-## 🌱 Minhas principais áreas de interesse:
+- **Engenharia de Dados**
+- **Banco de Dados (SQL, MySQL, PostgreSQL, NoSQL)**
+- **Cloud Computing (AWS)**
+- **Arquitetura de Software**
+- **Automação com Python**
+- **CI/CD e DevOps**
 
-- ✔️ Arquitetura de Software & Arquitetura de Soluções
-- ✔️ Engenharia de Dados | ETL | Pipelines | Data Lakes
-- ✔️ Cloud AWS | Deploy | Infra como Código
-- ✔️ Banco de Dados: MySQL | PostgreSQL | NoSQL
-- ✔️ Programação Back-End: Python
-- ✔️ CI/CD | Docker | Git | Linux
+📚 Sempre buscando entender melhor sobre **design de sistemas escaláveis**, **otimização de performance de dados** e **boas práticas de desenvolvimento**.
+
+☕ Movido a desafios e muito café!
 
 ---
 

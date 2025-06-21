@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mim:
 
 <div align="center">
-  <img src="./assets/minha-foto.jpg" width="300px" style="border-radius: 10%;">
+  <img src="minha-foto.jpg" width="300px" style="border-radius: 10%;">
 </div>
 
 
